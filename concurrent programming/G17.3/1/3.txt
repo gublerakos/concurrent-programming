@@ -1,0 +1,80 @@
+threads:4
+created thread id: 140639141172992d
+created thread id: 140639132780288d
+working = -1
+created thread id: 140639124387584d
+working = -2
+working = -3
+created thread id: 140639115994880d
+no one available, main going to sleep
+working = 0
+-----------------------2147483630: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483628: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483629: prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483627: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483632: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483631: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483634: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483636: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483635: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483633: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483638: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483637: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483640: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483639: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483642: not prime!
+working = -1
+no one available, main going to sleep
+-----------------------2147483643: not prime!
+working = -1
+-----------------------2147483644: not prime!
+working = -1
+-----------------------2147483641: not prime!
+working = -2
+-----------------------2147483645: not prime!
+working = -3
+-----------------------2147483646: not prime!
+working = -4
+notifying main that all threads are available
+Thread 140639115994880d is exiting
+exited = 1
+main alive
+main signals job
+main signals job
+main signals job
+Thread 140639141172992d is exiting
+exited = 2
+Thread 140639132780288d is exiting
+exited = 3
+Thread 140639124387584d is exiting
+exited = 4
+all numbers = 20
+all exited, main is exiting too
